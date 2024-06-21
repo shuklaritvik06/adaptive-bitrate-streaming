@@ -1,0 +1,5 @@
+transcoder/
+services/
+node_modules/
+.next/
+.env.local
