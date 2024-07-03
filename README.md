@@ -1,6 +1,11 @@
 # Adaptive Bitrate Streaming App
 
+
+![My Arch](https://github.com/shuklaritvik06/adaptive-bitrate-streaming/assets/72812470/bddad2d1-5807-4065-9da9-4c0c1e4f7ee0)
+![Screenshot from 2024-07-02 23-47-41](https://github.com/shuklaritvik06/adaptive-bitrate-streaming/assets/72812470/17310c56-3915-4336-9c8a-a3b950fd0c13)
+
 ### What used
+
 
 - [x] S3
 - [x] Lambda
