@@ -19,10 +19,11 @@
 - [x] Serverless Framework
 - [x] AWS Secrets Manager
 
-## Future Improvements
+## Possible Improvements
 
 - AWS SNS For Notifications on Frontend
-- AWS RDS For Live Status to client 
+- AWS RDS For Live Status to client
+- AWS Cloudfront to stream instead of S3
 
 This repository hosts the Adaptive Bitrate Streaming App, a web application designed for streaming media content using HTTP Live Streaming (HLS) technology. The app allows for efficient and adaptive bitrate streaming, providing a smooth and high-quality viewing experience across various devices and network conditions. With a focus on scalability and performance, the HLS Streaming App supports a wide range of media formats and ensures seamless playback for users. This project is ideal for developers looking to implement robust streaming solutions in their applications.
 
